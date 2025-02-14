@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+
+    /*Colors*/
+    --primary: #FFCE1A;
+    --secondary: #0D0842;
+    --background-color: #F3F3F3;
+    --favorite-color: #FF5841;
+
+    /*Fonts*/
+    --font-primary: "Montserrat", "sans-serif";
+    --font-secondary: "Nunito Sans", "sans-serif";
+
+}
